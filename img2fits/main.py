@@ -92,7 +92,7 @@ def get_args() -> argparse.Namespace:
     """Gets runtime arguments"""
     parser = argparse.ArgumentParser(description="Image to FITS converter")
     # Add argument that takes a file or directory as input
-    parser.add_argument("target", help="File or directory to convert", required=True)
+    parser.add_argument("target", help="File or directory to convert")
     # Parse arguments
     args = parser.parse_args()
     return args

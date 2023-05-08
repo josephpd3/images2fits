@@ -5,7 +5,5 @@ Quick script put together for converting images to FITS maps of R, G, B + Graysc
 ## Installing
 
 ```
-# Clone...
-cd img2fits
-pip install -r requirements.txt
+python -m pip install "img2fits @ git+https://github.com/josephpd3/images2fits.git"
 ```

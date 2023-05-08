@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+img2fits/__init__.py
+img2fits/main.py
+img2fits.egg-info/PKG-INFO
+img2fits.egg-info/SOURCES.txt
+img2fits.egg-info/dependency_links.txt
+img2fits.egg-info/entry_points.txt
+img2fits.egg-info/requires.txt
+img2fits.egg-info/top_level.txt
